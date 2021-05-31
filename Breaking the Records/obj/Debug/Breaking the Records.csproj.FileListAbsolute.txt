@@ -1,0 +1,7 @@
+C:\Users\Akram\Desktop\HackerRank\Day5\Breaking the Records\obj\Debug\Breaking the Records.csprojAssemblyReference.cache
+C:\Users\Akram\Desktop\HackerRank\Day5\Breaking the Records\obj\Debug\Breaking the Records.csproj.CoreCompileInputs.cache
+C:\Users\Akram\Desktop\HackerRank\Day5\Breaking the Records\bin\Debug\Breaking the Records.exe.config
+C:\Users\Akram\Desktop\HackerRank\Day5\Breaking the Records\bin\Debug\Breaking the Records.exe
+C:\Users\Akram\Desktop\HackerRank\Day5\Breaking the Records\bin\Debug\Breaking the Records.pdb
+C:\Users\Akram\Desktop\HackerRank\Day5\Breaking the Records\obj\Debug\Breaking the Records.exe
+C:\Users\Akram\Desktop\HackerRank\Day5\Breaking the Records\obj\Debug\Breaking the Records.pdb
